@@ -3,6 +3,9 @@
 ## Purpose
 Keep track of your spending and income.
 
+## Link to Deployed Application
+https://serene-sierra-30174.herokuapp.com/
+
 ## Built with:
 * Express
 * Mongoose
@@ -11,5 +14,5 @@ Keep track of your spending and income.
 * Heroku
 * MongoDB
 
-## Deployed
-https://serene-sierra-30174.herokuapp.com/
+## Preview
+![Website preview](./public/img/preview.png)
